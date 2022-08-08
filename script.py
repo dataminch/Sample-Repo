@@ -17,5 +17,5 @@ def greet(who_to_greet):
     return greeting
 
 
-r = requests.get("https://coreyms.com")
+r = requests.get("https://berkeleykaraoke.net")
 print(r.status_code)
